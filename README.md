@@ -1,2 +1,2 @@
 # QA-Exercises
-STD and SQL
+STD STP and SQL
